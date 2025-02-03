@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Python Java C program language
 - 😄 Pronouns: Bruce
+- changed by buyi
 
 <!---
 Andyming13/Andyming13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
